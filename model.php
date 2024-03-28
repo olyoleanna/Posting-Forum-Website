@@ -26,7 +26,7 @@
     
     function insertPost($title, $content, $user) {
         global $conn;
-        $time = date('Y/m/d H:i:s');
+        $time = date('Ymd');
         $sql = "INSERT INTO Posts VALUES (NULL, '$title', '$content', '$user', '$time', 0, 0, NULL)";
         $r = mysqli_query($conn, $sql);
         return $r;
