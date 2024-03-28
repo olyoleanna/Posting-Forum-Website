@@ -1,10 +1,10 @@
 # Posting-Forum-Website
 Posting Forum Website implemented using PHP, HTML, CSS, JS, MySQL DB, jQuery, Bootstrap, SPA, Ajax, and JSON
 
-![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/ae823bf5-c42c-4fa7-b91a-34a5a1b826de)
-![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/12319e6f-33fa-426f-b306-e2ef3872f67e)
-![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/756a5f12-fbd0-4aef-8f30-a74dd0ec118b)
-![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/8d082dfb-e5ea-4a19-82f6-d994d36ee343)
-![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/7d3d4c24-0c2a-4911-b73d-89f4578d2b8d)
-![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/b265da35-4c3c-4b5f-8abd-b72efe3af391)
-![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/18b17dd8-8cd1-4457-a1c7-f0cc772fde8e)
+![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/e22e9b4a-1899-4177-81e5-61750c4b0577)
+![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/c23de343-c571-45d5-bfaa-14a23647e5f0)
+![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/c6456652-660a-4588-b976-54aea5b48a8a)
+![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/48587bb6-b9f7-49ab-a8ad-4d3bbf010529)
+![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/37618081-0583-4af3-a394-758cffe17536)
+![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/e79bd09d-0cd5-4ccb-95e9-d4e4d876f9a5)
+![image](https://github.com/olyoleanna/Posting-Forum-Website/assets/84418525/c03a084b-1916-476c-a4d2-28ef54e7a31e)
